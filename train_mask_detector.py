@@ -25,7 +25,7 @@ INIT_LR = 1e-4
 EPOCHS = 20
 BS = 32
 
-DIRECTORY = r"D:\machine learning\Face Mask Detector\dataset"
+DIRECTORY = r"D:\final project\Faceask_Detector_using-ML"
 CATEGORIES = ["with_mask", "without_mask"]
 
 
